@@ -1,0 +1,3 @@
+include ':AminNumPicker'
+include ':app'
+rootProject.name = "AminNumberPicker"
